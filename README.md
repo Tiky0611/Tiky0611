@@ -1,5 +1,7 @@
 ### Hi there 👋
-
+- 🔭 I’m currently working on the Science Technology and Engineering for 
+our Common Home project hosted by the Center of Research Computing in the University of Notre Dame.
+- 🌱 I’m currently learning how to use Github, so I can work efficiently on the project mentioned above.
 <!--
 **Tiky0611/Tiky0611** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
